@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 ## 👋 Welcome to my page
 
-I'm **ZhuJHua**, a developer with a greater preference for the front end. I take pleasure in coding some interesting items. I usually work at night because it's quiet enough.
+I'm **Pei**
 
 ## 🛠 My Skills
 
 ### Language
 
-![Language](https://skillicons.dev/icons?i=js,ts,dart,java,kotlin,python)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Framework
 
@@ -30,4 +30,3 @@ I'm **ZhuJHua**, a developer with a greater preference for the front end. I take
 
 ## 👨‍💻 Github Stats
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhuJHua&theme=dark&hide=contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuJHua&layout=compact&theme=dark)
