@@ -22,11 +22,11 @@ I'm **Pei**
 
 ### Language
 
-[![My Skills](https://skillicons.dev/icons?i=java,vue,python,c)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=java,vue,c)](https://skillicons.dev)
 
 ### Framework
 
-![Framework](https://skillicons.dev/icons?i=vue,spring,ktor)
+![Framework](https://skillicons.dev/icons?i=vue,spring,element)
 
 ## 👨‍💻 Github Stats
 
