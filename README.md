@@ -28,5 +28,6 @@ I'm **Pei**
 
 ## 👨‍💻 Github Stats
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxianzi-99) 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxianzi-99&layout=compact)
+| ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxianzi-99) | 
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxianzi-99&layout=compact) |
+| -- | -- |
