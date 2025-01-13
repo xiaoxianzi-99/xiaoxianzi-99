@@ -26,7 +26,8 @@ I'm **帕斯卡的芦苇**
 
 ![Framework](https://skillicons.dev/icons?i=vue,spring,element)
 ## CodeTime
-<figure><embed src="https://wakatime.com/share/@7dffdbb3-648d-4978-a288-a311ae829fbc/fbe689cf-300e-436f-afa6-cbb56f5e7ccc.svg"></embed></figure>
+![codetime by now](https://wakatime.com/share/@7dffdbb3-648d-4978-a288-a311ae829fbc/d189a07c-5e23-49b8-ae96-eb683d274acd.png)
+
 
 ## 👨‍💻 Github Stats
 
