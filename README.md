@@ -20,11 +20,11 @@ I'm **帕斯卡的芦苇**
 
 ### Language
 
-[![MySkills](https://skillicons.dev/icons?i=java,vue,c)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=java,javascript,rust,c)](https://skillicons.dev)
 
 ### Framework
 
-![Framework](https://skillicons.dev/icons?i=vue,spring,element)
+![Framework](https://skillicons.dev/icons?i=vue,spring,springboot,element)
 
 
 ## 👨‍💻 Github Stats
