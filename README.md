@@ -27,6 +27,8 @@ I'm **帕斯卡的芦苇**
 ![Framework](https://skillicons.dev/icons?i=vue,spring,springboot,element)
 
 
+You are my ![Visitor Count](https://profile-counter.glitch.me/xiaoxianzi-99/count.svg) visitor,Thank You!
+
 ## 👨‍💻 Github Stats
 | ![GitHub Stats](https://readme-stats-eight-snowy.vercel.app/api?username=xiaoxianzi-99&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true) | ![Top Languages](https://readme-stats-eight-snowy.vercel.app/api/top-langs?username=xiaoxianzi-99&layout=compact&theme=transparent&langs_count=8&hide_border=true&hide_title=true&hide=cmake,ruby,shell,html,batchfile) |
 |---|---|
